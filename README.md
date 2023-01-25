@@ -8,6 +8,7 @@ kNNOnNetwork
 ## Requirement
 - Ubuntu 20.04 on Windows
 - python 3.6.13
+
 kNNonNetwork
 - pandas
 - geopandas
@@ -15,6 +16,7 @@ kNNonNetwork
 - networkx
 - heapq
 - shapely
+
 toolbox
 - numpy
 - pandas

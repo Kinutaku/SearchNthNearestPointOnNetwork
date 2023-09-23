@@ -1,4 +1,4 @@
-kNNOnNetwork
+SearchNthNearestPointOnNetwork
 ===
 
 始点群と終点群、グラフを入力することで、始点群中の各始点について経路距離が小さい方からk個の終点とその終点までの距離を算出する。
